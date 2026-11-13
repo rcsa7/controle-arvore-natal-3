@@ -29,6 +29,8 @@ Primeira instalacao por USB; atualizacoes posteriores por OTA Web ou ArduinoOTA.
 
 ## Hardware
 
+Placa utilizada: [ESS3B18 ESP32-S3 com 4 reles - AliExpress](https://pt.aliexpress.com/item/1005013477195506.html).
+
 | Circuito | GPIO | Acionamento |
 | --- | ---: | --- |
 | CH1 / Rele 1 | 39 | HIGH liga / LOW desliga |
